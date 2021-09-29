@@ -27,7 +27,7 @@ const bookDB = {
 
   Indian_History: [
     {
-      name: ". Freedom at Midnight by Dominique Lapierre and Larry Collins",
+      name: "Freedom at Midnight by Dominique Lapierre and Larry Collins",
       rating: "⭐⭐⭐⭐⭐",
       Description:
         "This book focuses on India’s independence movement during 1946 and 1948. The series of events that unfold during this period are worthy of this book being classified as a historical one."
@@ -36,7 +36,13 @@ const bookDB = {
       name: "The Argumentative Indian by Amartya Sen",
       rating: "⭐⭐⭐⭐⭐",
       Description:
-        "AIndia’s history and how that history has influenced and shaped its cultural identity"
+        "This book majoraly tells India’s history and how that history has influenced and shaped its cultural identity"
+    },
+    {
+      name: " India after Gandhi: The History of the World’s Largest Democracy",
+      rating: "⭐⭐⭐⭐⭐",
+      Description:
+        "This book of Ramachandra Guha talks about India’s history after it gained independence from the British. This is the perfect book for you to understand the evolution of Modern India"
     }
   ],
   Classic_Novels: [
