@@ -19,7 +19,7 @@ const bookDB = {
     },
     {
       name: "A Smarter Way to Learn JavaScript by Mark Myers",
-      rating: "⭐⭐⭐⭐⭐",
+      rating: "⭐⭐⭐⭐",
       Description:
         "Suppose you are new to the programming language and have no prior knowledge of the JavaScript language. In that case, this is the book for you."
     }
@@ -34,13 +34,13 @@ const bookDB = {
     },
     {
       name: "The Argumentative Indian by Amartya Sen",
-      rating: "⭐⭐⭐⭐⭐",
+      rating: "⭐⭐⭐⭐",
       Description:
         "This book majoraly tells India’s history and how that history has influenced and shaped its cultural identity"
     },
     {
       name: " India after Gandhi: The History of the World’s Largest Democracy",
-      rating: "⭐⭐⭐⭐⭐",
+      rating: "⭐⭐⭐⭐",
       Description:
         "This book of Ramachandra Guha talks about India’s history after it gained independence from the British. This is the perfect book for you to understand the evolution of Modern India"
     }
@@ -50,13 +50,19 @@ const bookDB = {
       name: "1984 by George Orwell",
       rating: "⭐⭐⭐⭐⭐",
       Description:
-        "Stylish English horror.Deals with themes like morality and beauty"
+        "which follows the life of Winston Smith, a low ranking member of 'the Party', who is frustrated by the omnipresent eyes of the party, and its ominous ruler Big Brother. 'Big Brother' controls every aspect of people's lives."
     },
     {
       name: "The Lord of the Rings by J.R.R. Tolkien",
       rating: "⭐⭐⭐⭐",
       Description:
-        "Tolkien’s fantasy epic is one of the top must-read books out there"
+        "Books tells the story of the War of the Ring in the fictional world of Middle-earth."
+    },
+    {
+      name: "The God of Small Things",
+      rating: "⭐⭐⭐⭐",
+      Description:
+        "Family drama novel written of Indian writer Arundhati Roy. The book explores how the small things affect people's behavior and their lives."
     }
   ]
 };
