@@ -9,7 +9,7 @@ const bookDB = {
       name: "Eloquent JavaScript",
       rating: "⭐⭐⭐⭐⭐",
       Description:
-        "This book is pure art for the beginner and intermediate JavaScript developers"
+        "This book is pure art for the beginner and intermediate JavaScript developers. Read Eloquent JavaScript, you will not only have a great JavaScript foundation afterwards, you will be a better programmer!!"
     },
     {
       name: "You Don’t Know JS by Kyle Simpson",
